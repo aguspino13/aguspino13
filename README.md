@@ -2,6 +2,7 @@
 
 #hola xdxdxd
 
+##I speak spanish on a native level and english on a c1 level
 ## Hobbies
 - Dancing: ...
 
